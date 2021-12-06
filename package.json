@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-hikvision",
+  "version": "1.0.0",
+  "description": "基于VuePress搭建个人博客平台，旨在分享和交流业务组件开发过程，业务开发心得等。",
+  "main": "index.js",
+  "author": "梁洪刚",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.2"
+  }
+}
